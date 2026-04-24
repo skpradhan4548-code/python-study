@@ -1,0 +1,3 @@
+number = (15,20,25,30,35,40)
+
+print(sum(number))
